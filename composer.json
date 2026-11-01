@@ -10,8 +10,8 @@
     "license": "MIT",
     "repositories": [
     {
-        "type": "path",
-        "url": "../job_shared",
+        "type": "vcs",
+        "url": "https://github.com/Mos234mv/job_shared.git",
         "options": {
             "symlink": true
         }
